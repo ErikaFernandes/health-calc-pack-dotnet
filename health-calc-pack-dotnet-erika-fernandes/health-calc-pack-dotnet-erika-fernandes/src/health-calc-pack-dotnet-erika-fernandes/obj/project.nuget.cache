@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nSzbtiB/caOs0b4T5DZYjFesxKjOi3gS3GX7Mdi4Jrnnum9C3WR+Fsg8BAld2enY8lpBJK/VoY69ZYERnQ1tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\etava\\tcc\\health-calc-pack-dotnet-erika-fernandes\\health-calc-pack-dotnet-erika-fernandes\\src\\health-calc-pack-dotnet-erika-fernandes\\health-calc-pack-dotnet-erika-fernandes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etava\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\etava\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
